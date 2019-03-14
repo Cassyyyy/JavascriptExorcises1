@@ -1,0 +1,42 @@
+body{
+  background-color: #002B2F;
+  font-family: Baloo;
+  color: white;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+.topnav {
+  background-color: #008A97;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #AEF8FF;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+h3 {
+    font-family: 'Pacifico';font-size: 22px;
+    font-size: 40px;
+    color: white;
+}
